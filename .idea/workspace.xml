@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a672d8f-645a-49b3-a672-7fb7d18dbaf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/js-layout.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/community_img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/index/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/index/index.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/index/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/index/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/script/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/script/layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dz-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "dz-1",
+    "git-widget-placeholder": "community",
     "last_opened_file_path": "/Users/imag/Work/js-layout/src/class",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -117,7 +109,7 @@
       <workItem from="1691507763458" duration="1166000" />
       <workItem from="1691508975478" duration="916000" />
       <workItem from="1691509899383" duration="11352000" />
-      <workItem from="1691588557688" duration="3480000" />
+      <workItem from="1691588557688" duration="3785000" />
     </task>
     <servers />
   </component>
